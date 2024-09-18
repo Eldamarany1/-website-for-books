@@ -1,1 +1,1 @@
-"# -website-for-books" 
+the website is a platform for books. create, upload, and share your own titles with the community, explore and purchase books from around the globe. the platform contains tools for authors with a vast commercial marketplace for readers. making you up-to-date with the latest book news and trends, and connect with a worldwide audience.
